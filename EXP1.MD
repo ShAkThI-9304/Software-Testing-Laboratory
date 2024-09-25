@@ -16,7 +16,7 @@ Cases
 
 ### i.)do…while: 
 
-``1
+```
 def display():
      start=input("Enter a positive value for START: ")
       end=input("Enter a positive value for END: ")
@@ -36,7 +36,7 @@ def display():
 
 ### ii.) while…do 
 
-``1
+```
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ")
 if start.isnumeric() and end.isnumeric():
