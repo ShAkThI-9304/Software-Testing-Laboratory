@@ -32,7 +32,7 @@ def display():
       else:
         print("Enter a valid positive number.") 
   display() 
-``1
+```
 
 ### ii.) while…do 
 
@@ -96,17 +96,6 @@ def iterate():
        print(ord(i),end=" ")
 iterate() 
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 
 
