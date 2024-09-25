@@ -16,7 +16,7 @@ Cases
 
 ### i.)do…while: 
 
-``
+``1
 def display():
      start=input("Enter a positive value for START: ")
       end=input("Enter a positive value for END: ")
@@ -32,11 +32,11 @@ def display():
       else:
         print("Enter a valid positive number.") 
   display() 
-``
+``1
 
 ### ii.) while…do 
 
-``
+``1
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ")
 if start.isnumeric() and end.isnumeric():
@@ -47,12 +47,12 @@ if start.isnumeric() and end.isnumeric():
           start+=1
 else:
    print("Enter a valid positive number.")
-``
+```
 
 
 ### iii.) switch 
 
-``
+```
 def switch():
     switcher={
  0:"even",
@@ -64,12 +64,12 @@ n=input('Enter a value for N: ') try:
 except ValueError:
    print("Enter a valid number.")
 switch() 
-``
+```
 
 
 ### iv.) if else
 
-``
+```
 def compare():
   a=input("Enter a value for A: ")
   b=input("Enter a value for B: ")
@@ -85,17 +85,17 @@ def compare():
   except ValueError:
         print(“Enter a valid number.”) 
 
-``
+```
 
 ### v.) for
 
-``
+```
 def iterate():
     string=input("Enter a string: ") for
     i in string:
        print(ord(i),end=" ")
 iterate() 
-``
+```
 
 
 
