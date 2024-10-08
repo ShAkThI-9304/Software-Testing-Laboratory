@@ -51,5 +51,5 @@ except:
 
 
 ### Result:
-Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
+Thus, the python program to search a given element is present in the list using Binary search and the output is verified successfully.
 
